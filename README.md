@@ -1,6 +1,6 @@
 <h1> File Encryption and Decryption </h1>
 
-This main.py file can Encrypt or Decrypt a file
+This main.py file can Encrypt or Decrypt a file.
 
 ## Usage
 
